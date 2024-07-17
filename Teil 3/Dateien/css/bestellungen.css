@@ -1,0 +1,16 @@
+article:nth-of-type(even) {
+	background-color:#eee;
+}
+article:nth-of-type(odd) {
+	background-color:#ddd;
+}
+article {
+	margin:1em 0px;
+	padding:1em;
+	border-radius:0.2em;
+}
+article header p {
+	font-size:1.1em;
+	margin:0px;
+	font-weight:bold;
+}
